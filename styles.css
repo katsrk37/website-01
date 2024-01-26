@@ -1,7 +1,7 @@
 h1{
-    color: green;
+    color: rgb(28, 0, 128);
 }
 h2{
-    color: green;
-    background-color: lightgreen;
+    color: rgb(49, 0, 128);
+    background-color: rgb(144, 238, 210);
 }
